@@ -1,0 +1,6 @@
+com\mycompany\train_system\Train_system.class
+com\mycompany\train_system\AdminDashboard.class
+com\mycompany\train_system\UserDashboard.class
+com\mycompany\train_system\DatabaseConnection.class
+com\mycompany\train_system\LoginFrame.class
+com\mycompany\train_system\RegistrationFrame.class
